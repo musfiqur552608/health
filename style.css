@@ -38,5 +38,34 @@ h1{
     color: white;
 }
 .about-container{
-    
+    display: flex;
+    background-image: url(images/shapes/7.png);
+}
+.font{
+    font-size: 30px;
+}
+.text{
+    text-align: center;
+    padding: 0 20% ;
+}
+.text p{
+    font-size: 12px;
+}
+.recipie{
+    display: flex;
+}
+.wonder{
+    width: 50%;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 15px;
+}
+.wonder img{
+    width: 95%;
+    margin-top: 20px;
+}
+.re-img{
+    border-radius: 15px;
 }
